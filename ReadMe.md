@@ -18,7 +18,7 @@ The clock displays the current **time** and **date**, includes **CSS animations*
 ## 🛠️ How to Run the Project
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/digital-clock.git
+   git clone https://github.com/PurnaSaradhi18/Simple_Digital_clock.git
 2. Open the project folder.
 
 3. Simply open index.html in your browser (no server required).
